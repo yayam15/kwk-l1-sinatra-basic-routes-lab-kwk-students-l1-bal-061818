@@ -10,3 +10,5 @@ end
   end
   get '/' favorite-song do
     "My favorite song is IDK"
+  end
+end
